@@ -7,7 +7,8 @@ Este é um dos incríveis cursos que eu fiz no DevDojo Academy. Neste curso, eu 
 - SpringBoot2 Essentials - DevDojo Academy
 
 #### Technologies
+- Java
 - Spring Boot
 - Spring Framework
+- JPA e Hibernate
 - Docker
-- Java
